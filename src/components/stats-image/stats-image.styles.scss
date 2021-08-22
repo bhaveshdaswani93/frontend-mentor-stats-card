@@ -19,6 +19,8 @@
     @media screen and (max-width: 720px) {
         background-image: url('../../assests/image-header-mobile.jpg');
         border-radius: 10px 10px 0 0;
+        max-width: 380px;
+        padding-bottom: 200px;
     }
 
    &::before {
