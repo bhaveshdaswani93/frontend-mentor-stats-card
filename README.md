@@ -6,7 +6,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Frontend Mentor - Stats preview card component solution](#frontend-mentor---stats-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
@@ -17,9 +16,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview
 
 ### The challenge
 
@@ -33,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/bhaveshdaswani93/frontend-mentor-stats-card)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-stats-card-ogrs9d9om-bhaveshdaswani93.vercel.app)
 
 ## My process
 
