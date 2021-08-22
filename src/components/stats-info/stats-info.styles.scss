@@ -1,0 +1,23 @@
+@import '../../sass/variables.scss';
+
+.stats-info {
+    display: flex;
+    flex-direction: column;
+
+    @media screen and (max-width: 720px) { 
+        margin-bottom: 20px;
+    }
+
+    &__unit {
+        font-size: 21px;
+        font-weight: 700;
+        color: $white;
+        margin-bottom: 10px;
+    }
+
+    &__unit-info {
+        font-family: 'Lexend Deca', sans-serif;
+        color: $more-transparent-white;
+    }
+
+}

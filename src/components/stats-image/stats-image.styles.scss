@@ -1,0 +1,33 @@
+@import '../../sass/variables.scss';
+
+.stats-image {
+    // background-color: $soft-violet-image;
+    background-image: url('../../assests/image-header-desktop.jpg');
+    flex: 1;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 0 10px 10px 0;
+
+
+    
+    // background-repeat: no-repeat;
+    
+    width: 100%;
+
+    @media screen and (max-width: 720px) {
+        background-image: url('../../assests/image-header-mobile.jpg');
+        border-radius: 10px 10px 0 0;
+    }
+
+   &::before {
+    background-color: $soft-violet-image;
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    width: 100%;
+   }
+}
+
